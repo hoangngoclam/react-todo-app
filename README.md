@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Make a copy layout from this repo: https://github.com/jason89521/react-todo
+
 ## How to run
 
 `pnpm install`
