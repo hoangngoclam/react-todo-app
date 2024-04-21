@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + TailwindCSS
 
 Make a copy layout from this repo: https://github.com/jason89521/react-todo
 
